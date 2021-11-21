@@ -1,4 +1,4 @@
-# Repositório de Aulas ao Vivo Da Turma 17 - Tribo C -> 💻 🎥
+# Repositório de Aulas ao Vivo Da Turma 19 - Tribo C -> 💻 🎥
 
 Este repositório armazena os códigos e scripts fornecidos durante as aulas ao vivo pelas pessoas especialistas da Trybe.
 
